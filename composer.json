@@ -18,7 +18,7 @@
         }
     },
     "require": {
-        "jiggabyte/acl": "dev-master",
+        "houseafrica/acl": "dev-master",
         "rmccue/requests": "^1.7",
         "phpmailer/phpmailer": "~5.2 || ~6.0"
     },
